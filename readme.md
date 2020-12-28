@@ -44,4 +44,4 @@
 # Collaborators
 
 1. [Bhargey Mehta](https://github.com/bhargeymehta)
-2. Rag Patel
+2. [Rag Patel](https://github.com/ragpatel8742)
