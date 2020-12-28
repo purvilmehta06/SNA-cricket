@@ -1,4 +1,4 @@
-Notes:
+# Notes:
 1. Based on work done by Dr. Satyam Mukherjee
     a. https://doi.org/10.1142/S0219525913500318
     b. https://doi.org/10.1016/j.physa.2013.09.027
@@ -40,3 +40,8 @@ Notes:
     a. Bowler and batsman career averages (present in folder- pib_qib_stats)
     b. Bowler-Batsman wise pairs of career history (present in folder- pib_qib_stats)
     c. Partnership files (present in folder- teamwise)
+
+# Collaborators
+
+1. [Bhargey Mehta](https://github.com/bhargeymehta)
+2. Rag Patel
